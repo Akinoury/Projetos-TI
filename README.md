@@ -1,4 +1,4 @@
-# Projetos de TI
+# TI Projects
 ## Overview
 
 This directory is intended to centralize and present all files and projects developed by me in the field of Information Technology. It includes applications, systems, themes, videos, experiments, proofs of concept, and any other technical materials I create throughout my work in IT. The purpose of this repository is to serve as a single reference point for documentation, organization, and practical demonstration of my skills, studies, and implemented solutions, covering different technologies, languages, and approaches as the projects evolve.
